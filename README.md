@@ -12,12 +12,10 @@ Ira executar a aplicação na porta :3000, se houver aplicações rodando nessa 
 
 ------------------------------------------------------------------------------
 
-##Atualizações futuras:
+# Atualizações futuras:
 
-[]Listagem de todos os pokemons
+[x] Listagem de todos os pokemons
 
-[]Mostrar a evolução de cada pokemon e suas mega evoluções
+[x] Mostrar a evolução de cada pokemon e suas mega evoluções
 
-[]Adicionar icones em relação tipo de cada pokemon
-
-
+[x] Adicionar icones em relação tipo de cada pokemon
