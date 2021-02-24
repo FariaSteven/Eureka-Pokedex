@@ -1,4 +1,6 @@
-Para rodar a aplicação execute os seguintes comandos:
+![](/printEurekaPokedex1.png)
+
+## Para rodar a aplicação execute os seguintes comandos:
 
 ### `npm install`
 
