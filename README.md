@@ -1,8 +1,8 @@
 ![](/printEurekaPokedex1.png)
 
-# 📝 Estudos em React
+# 📝 Pokedex ReactJS - API Pokemon
 
-> Projeto feito para processo seletivo empresa Eureka.
+> Projeto feito para processo seletivo empresa Eureka, consumindo API do Pokemon.
 
 ## 💻 Pré-requisitos
 
