@@ -2,7 +2,7 @@
 
 # 📝 Pokedex ReactJS - API Pokemon
 
-> Projeto feito para processo seletivo empresa Eureka, consumindo API do Pokemon.
+> Project developed for Eureka company selection process, consuming the Pokémon API on the front end using Reactjs.
 
 ## 💻 Prerequisites
 
