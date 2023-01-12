@@ -4,33 +4,24 @@
 
 > Projeto feito para processo seletivo empresa Eureka, consumindo API do Pokemon.
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Before start, check if you have the requirements to run this project:
 
-- Ter o `NodeJS` instalado.
+- `NodeJS` installed.
 
-## 🚀 Instalando o projeto
+## 🚀 Installing the projects
 
-Para instalar o projeto, siga estas etapas:
+To install this project, follow the steps below:
 
-Em seu terminal dentro da pasta do projeto execute o comando abaixo para instalar as dependências:
-
+In your terminal, inside the project folder, run the command below to install the dependencies:
 ```
 yarn
 ```
 
-## ☕ Instalando o projeto
+## ☕ Running the project
 
-Em seu terminal dentro da pasta do projeto execute o comando abaixo para executar o projeto:
-
-```
-yarn start
-```
-
-## ☕ Executando o projeto
-
-Em seu terminal dentro da pasta do projeto execute o comando abaixo para executar o projeto:
+In your terminal, inside the project folder, run the command below to run the project:
 
 ```
 yarn start
