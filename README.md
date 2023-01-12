@@ -1,23 +1,37 @@
 ![](/printEurekaPokedex1.png)
 
-## Para rodar a aplicação execute os seguintes comandos:
+# 📝 Estudos em React
 
-### `npm install`
+> Projeto feito para processo seletivo empresa Eureka.
 
-Instala todas as dependências necessárias para rodar a aplicação.
+## 💻 Pré-requisitos
 
-### `npm start`
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-Ira executar a aplicação na porta :3000, se houver aplicações rodando nessa porta será solicitado a troca de porta:
+- Ter o `NodeJS` instalado.
 
-[http://localhost:3000](http://localhost:3000)
+## 🚀 Instalando o projeto
 
-------------------------------------------------------------------------------
+Para instalar o projeto, siga estas etapas:
 
-# Atualizações futuras:
+Em seu terminal dentro da pasta do projeto execute o comando abaixo para instalar as dependências:
 
-[ ] Listagem de todos os pokemons
+```
+yarn
+```
 
-[ ] Mostrar a evolução de cada pokemon e suas mega evoluções
+## ☕ Instalando o projeto
 
-[ ] Adicionar icones em relação tipo de cada pokemon
+Em seu terminal dentro da pasta do projeto execute o comando abaixo para executar o projeto:
+
+```
+yarn start
+```
+
+## ☕ Executando o projeto
+
+Em seu terminal dentro da pasta do projeto execute o comando abaixo para executar o projeto:
+
+```
+yarn start
+```
